@@ -1,0 +1,19 @@
+
+<view class="container">
+
+<view>
+  <view class="logo">Jobs4u</view>
+  <view class="brand-intro">Growth Simplified</view>
+
+  <view class="identity">I am</view>
+  <view class="transparent-start">
+    <button class="seeker">Job Seeker</button>
+    <button class="recruiter">Recruiter</button>
+    <button class="workshops">Browsing Workshops</button>
+    <button class="creator">Workshop Creator</button>
+  </view>
+</view>
+
+
+
+</view>

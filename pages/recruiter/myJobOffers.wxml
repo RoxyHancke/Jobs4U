@@ -1,0 +1,44 @@
+<!--pages/recruiter/myJobOffers.wxml-->
+
+
+
+
+<view class="container">
+  <view class="section-card-top">
+    
+    <view class="heading">Job Offer</view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="sub-heading">Intro</view>
+      <view class="text">Job title e.g. DHL Recruitment</view>
+      <view class="text">Job salary e.g. 15k rmb /month</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="sub-heading">Description</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="sub-heading">Requirements</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="sub-heading">Benefits</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <button class="full">Post job</button>
+    <button class="pale">Save job</button>
+
+  </view>
+
+</view>

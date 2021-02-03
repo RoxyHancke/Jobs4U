@@ -1,0 +1,57 @@
+/* pages/home/home.wxss */
+
+.container{
+  background-color: #fff;
+  height: 100vh;
+  width: 100vw;
+}
+
+.logo{
+  font-size: 75rpx;
+  line-height: 105rpx;
+  text-align: center;
+  font-weight: 300;
+}
+
+.brand-intro{
+  text-align: center;
+  font-size: 25rpx;
+  font-weight: 100;
+  margin-bottom: 100rpx;
+}
+
+.identity{
+  text-align: center;
+  font-weight: 100;
+  margin-bottom: 100rpx;
+}
+
+
+
+button{
+  margin-bottom: 20rpx;
+  height: 200rpx;
+}
+
+.seeker{
+  background-color: #00bcd4;
+}
+
+.workshops{
+  background-color: #00bcd4;
+}
+
+.recruiter{
+  background-color: #0097a7;
+}
+
+.creator{
+  background-color: #0097a7;
+}
+
+.transparent-start{
+  background-color: #ebebeb;
+  padding-top: 100rpx;
+  padding-bottom: 100rpx;
+  border-radius: 40rpx;
+}

@@ -1,0 +1,40 @@
+<!-- Recruiter profile-->
+
+<view class="container">
+  <view class="section-card" style="flex-direction:row;">
+    <image class="avatar" src="/images/avatar.jpeg" mode="scaleToFill" ></image>
+    <view class="text-container">
+      <view class="recruiter-name">Recruiter King</view>
+      <view class="recruiter-intro">Talent specialist</view>
+    </view>
+  </view>
+
+  
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="text-section">My posted jobs</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="text-section">Job alerts</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="text-section">My Credentials</view>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="text-container">
+      <view class="text-section">Saved</view>
+    </view>
+  </view>
+
+  
+
+</view>

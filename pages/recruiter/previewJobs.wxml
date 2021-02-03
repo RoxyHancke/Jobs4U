@@ -1,0 +1,29 @@
+<!--pages/recruiter/previewJobs.wxml-->
+
+<view class="container">
+
+<view class="search">Searchbar  |</view>
+<view class="search">Filter dropdown icon  |</view>
+<view class="search">Search button</view>
+<view class="job-card">
+  <image class="job-preview-image" src="/images/greySquare.jpeg"></image>
+
+  <view class="text-container">
+    <view class="job-card-title">Marketing manager</view>
+    <view> Aliquam quis iaculis lectus, non fermentum dolor. Vivamus ipsum metus, blandit nec odio sed, congue tempor purus.</view>
+  </view>
+  <button class="apply">Apply</button>
+  <button class="save">Save</button>
+</view>
+
+<view class="job-card">
+  <image class="job-preview-image" src="/images/greySquare.jpeg"></image>
+
+  <view class="text-container">
+    <view class="job-card-title">Teacher</view>
+    <view> Aliquam quis iaculis lectus, non fermentum dolor. Vivamus ipsum metus, blandit nec odio sed, congue tempor purus.</view>
+  </view>
+  <button class="apply">Apply</button>
+  <button class="save">Save</button>
+</view>
+</view>

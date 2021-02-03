@@ -1,7 +1,11 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/recruiter/myPostedJobs",
+    "pages/recruiter/myJobOffers",
+    "pages/recruiter/recruiterProfile",
+    "pages/recruiter/previewJobs"
   ],
   "window":{
     "backgroundTextStyle":"light",

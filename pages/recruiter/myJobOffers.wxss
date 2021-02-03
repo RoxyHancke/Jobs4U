@@ -1,0 +1,62 @@
+/* pages/recruiter/myJobOffers.wxss */
+
+.container{
+  background-color: #bdbdbd;
+  height: 100vh;
+  width: 100vw;
+}
+
+.section-card-top{
+  background-color: #fff;
+  padding: 15rpx 0rpx;
+  margin-top: 12rpx;
+}
+
+.section-card{
+  background-color: #fff;
+  padding: 40rpx 0rpx;
+  margin-top: 12rpx;
+}
+
+/**************/
+/* text */
+/**************/
+
+.heading{
+  font-size: 50rpx;
+  text-align: center;
+  color: #0097a7;
+  font-weight: 200;
+}
+
+.sub-heading{
+  font-weight: 700;
+  font-size: 35rpx;
+}
+
+.text-container{
+  margin-left: 30rpx;
+}
+
+
+
+
+
+
+
+/**************/
+/* buttons */
+/**************/
+button{
+  display: inline-block;
+  width: 25rpx;
+  margin: 20rpx 0rpx;
+}
+
+.full{
+  background-color: #0097a7;
+}
+
+.ghost{
+  background-color: #b2ebf2;
+}
