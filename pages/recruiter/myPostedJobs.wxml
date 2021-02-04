@@ -1,0 +1,42 @@
+<!--pages/recruiter/myPostedJobs.wxml-->
+
+<view class="container">
+  <view class="section-card">
+    <view class="heading">Posted Jobs</view>
+  </view>
+
+  <view class="section-card">
+    <view>Job details</view>
+    <view>Location</view>
+    <view class="job-description">Job description</view>
+    <view class="salary">Salary</view>
+    <view>Apply by dd/mm/yyy</view>
+    <button class="full">Delete</button>
+    <button class="ghost">Edit</button>
+  </view>
+
+  <view class="section-card">
+    <view>Job details</view>
+    <view>Location</view>
+    <view class="job-description">Job description</view>
+    <view class="salary">Salary</view>
+    <view>Apply by dd/mm/yyy</view>
+    <button class="full">Delete</button>
+    <button class="ghost">Edit</button>
+  </view>
+
+  <view class="section-card">
+    <view>Job details</view>
+    <view>Location</view>
+    <view class="job-description">Job description</view>
+    <view class="salary">Salary</view>
+    <view>Apply by dd/mm/yyy</view>
+    <button class="full">Delete</button>
+    <button class="ghost">Edit</button>
+  </view>
+
+  <view class="section-action">
+    <icon class="home-icon" src="/icons/home-outline.svg"></icon>
+  </view>
+
+</view>

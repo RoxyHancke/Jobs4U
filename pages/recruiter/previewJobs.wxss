@@ -1,0 +1,60 @@
+/* pages/recruiter/previewJobs.wxss */
+
+.search{
+  float: left;
+ 
+  position: relative;
+}
+
+.container{
+  background-color: #f1f0f0;
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+}
+
+.job-card{
+  position: relative;
+  background-color: #fff;
+  border-radius: 20rpx;
+  margin: 40rpx 20rpx;
+  width: 95%;
+  padding: 20rpx 0rpx;
+}
+
+.job-preview-image{
+  border-radius: 20rpx;
+  height: 200rpx;
+  width: 95%;
+  margin-left: 2.5%;
+  margin-top: 20rpx;
+}
+
+.job-card-title{
+  color: #00bcd4;
+  margin-bottom: 10rpx;
+  margin-top: 10rpx;
+  
+}
+
+.text-container{
+  margin-left: 30rpx;
+  line-height: 49rpx;
+  margin-bottom: 10rpx;
+}
+
+button{
+  display: inline-block;
+  padding: 0rpx;
+  width: 20rpx;
+  margin: 5rpx 5rpx;
+}
+
+.apply{
+  
+  background-color: #0097a7;
+}
+
+.save{
+  
+}
