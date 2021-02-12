@@ -1,6 +1,13 @@
 // pages/recruiter/recruiterProfile.js
 Page({
 
+  myJobs: function(e){
+    console.log('event', e)
+    wx.navigateTo ({
+      url: `/pages/recruiter/myPostedJobs?id=${e.currentTarget.id}`,
+  });
+    
+  },
   /**
    * Page initial data
    */
@@ -18,10 +25,7 @@ Page({
   /**
    * Lifecycle function--Called when page is initially rendered
    */
-  onReady: function () {
-
-  },
-
+  
   /**
    * Lifecycle function--Called when page show
    */

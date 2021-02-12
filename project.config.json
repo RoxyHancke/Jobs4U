@@ -65,6 +65,24 @@
         {
           "name": "pages/userhome/userhome",
           "pathName": "pages/userhome/userhome",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/recruiter/previewJobs",
+          "pathName": "pages/recruiter/previewJobs",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/recruiter/myPostedJobs",
+          "pathName": "pages/recruiter/myPostedJobs",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/recruiter/myJobOffers",
+          "pathName": "pages/recruiter/myJobOffers",
           "scene": null
         }
       ]
