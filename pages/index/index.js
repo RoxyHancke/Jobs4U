@@ -4,12 +4,20 @@ const app = getApp()
 
 Page({
 
-  /*
-  navigateToMyPostedJobs: function () {
-    wx.navigateTo({
-      url: 'pages/recruiter/myPostedJobs'
-    })
-  }
- */
+  goToRecruiter: function(e){
+    console.log('event', e)
+    wx.navigateTo ({
+      url: `/pages/recruiter/recruiterProfile?id=${e.currentTarget.id}`,
+  });
+    
+  },
+
+  seeNewJobs: function(e){
+    console.log('event', e)
+    wx.navigateTo ({
+      url: `/pages/recruiter/previewJobs?id=${e.currentTarget.id}`,
+  });
+    
+  },
  
 })
