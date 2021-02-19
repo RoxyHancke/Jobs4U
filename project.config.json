@@ -21,9 +21,8 @@
     "checkSiteMap": true,
     "uploadWithSourceMap": true,
     "compileHotReLoad": false,
-    "useMultiFrameRuntime": true,
+    "useMultiFrameRuntime": false,
     "useApiHook": true,
-    "useApiHostProcess": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -34,7 +33,6 @@
     "useIsolateContext": true,
     "useCompilerModule": true,
     "userConfirmedUseCompilerModuleSwitch": false,
-    "userConfirmedBundleSwitch": false,
     "packNpmManually": false,
     "packNpmRelationList": [],
     "minifyWXSS": true
@@ -63,8 +61,33 @@
     "miniprogram": {
       "list": [
         {
-          "name": "pages/userhome/userhome",
-          "pathName": "pages/userhome/userhome",
+          "name": "pages/recruiter/myPostedJobs",
+          "pathName": "pages/recruiter/myPostedJobs",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/recruiter/myJobOffers",
+          "pathName": "pages/recruiter/myJobOffers",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/recruiter/recruiterProfile",
+          "pathName": "pages/recruiter/recruiterProfile",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/recruiter/previewJobs",
+          "pathName": "pages/recruiter/previewJobs",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
           "scene": null
         }
       ]

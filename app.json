@@ -2,13 +2,10 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-
     "pages/recruiter/myPostedJobs",
     "pages/recruiter/myJobOffers",
     "pages/recruiter/recruiterProfile",
-    "pages/recruiter/previewJobs"
-
-    "pages/userhome/userhome",
+    "pages/recruiter/previewJobs",
     "pages/userprofile/userprofile",
     "pages/userjob/userjob",
     "pages/userdetail/userdetail"
@@ -39,18 +36,20 @@
   "color": "#023047",
   "selectedColor": "#219EBC",
   "list": [
+
     {
-      "pagePath": "pages/userhome/userhome",
+      "pagePath": "pages/index/index",
       "text": "Home",
-      "iconPath": "/pages/userhome/home.png",
-      "selectedIconPath": "/pages/userhome/home.png"
+      "iconPath": "/pages/index/home.png",
+      "selectedIconPath": "/pages/index/home.png"
     },
     {
-      "pagePath": "pages/userprofile/userprofile",
+      "pagePath": "pages/recruiter/recruiterProfile",
       "text": "Profile",
-      "iconPath": "/pages/userprofile/profile.png",
-      "selectedIconPath": "/pages/userprofile/profile.png"
+      "iconPath": "/pages/recruiter//profile.png",
+      "selectedIconPath": "/pages/recruiter/profile.png"
     }
+
 
   ]
  

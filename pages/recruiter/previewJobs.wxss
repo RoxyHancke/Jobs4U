@@ -20,6 +20,7 @@
   margin: 40rpx 20rpx;
   width: 95%;
   padding: 20rpx 0rpx;
+  box-shadow:  0 4rpx rgba(0,0,0,0.2);
 }
 
 .job-preview-image{
@@ -43,7 +44,14 @@
   margin-bottom: 10rpx;
 }
 
-button{
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 15rpx;
+}
+
+.button{
   display: inline-block;
   padding: 0rpx;
   width: 20rpx;
@@ -53,6 +61,7 @@ button{
 .apply{
   
   background-color: #0097a7;
+  color: white;
 }
 
 .save{

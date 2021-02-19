@@ -35,9 +35,11 @@
     </view>
   </view>
 
-  <view class="section-card">
+  <view class="section-card5">
+    <view class="buttons">
     <button class="full">Post job</button>
     <button class="pale">Save job</button>
+    </view>
 
   </view>
 
