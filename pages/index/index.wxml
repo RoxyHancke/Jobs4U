@@ -1,19 +1,18 @@
 
-<view class="container">
-
-<view>
-  <view class="logo">Jobs4u</view>
+<view class="background-image" style="background-image: url(/../job3.jpeg), width:100%">
+  <view class="logo">Jobs4U</view>
   <view class="brand-intro">Growth Simplified</view>
 
-  <view class="identity">I am</view>
+</view>
+
   <view class="transparent-start">
+    <view class="identity">I am a ... </view>
+    <button class="seeker">Job Seeker</button>
+    <button class="recruiter">Recruiter</button>
     <button bindtap="seeNewJobs" class="seeker">Job Seeker</button>
     <button bindtap="goToRecruiter" class="recruiter">Recruiter</button>
+
     <button class="workshops">Browsing Workshops</button>
     <button class="creator">Workshop Creator</button>
   </view>
-</view>
 
-
-
-</view>

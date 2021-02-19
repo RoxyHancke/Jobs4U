@@ -12,10 +12,13 @@
     <view class="job-card-title">Marketing manager</view>
     <view> Aliquam quis iaculis lectus, non fermentum dolor. Vivamus ipsum metus, blandit nec odio sed, congue tempor purus.</view>
   </view>
+  
+  <view class="buttons">
   <button class="apply">Apply</button>
   <button class="save">Save</button>
 </view>
 
+</view>
 <view class="job-card">
   <image class="job-preview-image" src="/images/greySquare.jpeg"></image>
 
@@ -23,7 +26,9 @@
     <view class="job-card-title">Teacher</view>
     <view> Aliquam quis iaculis lectus, non fermentum dolor. Vivamus ipsum metus, blandit nec odio sed, congue tempor purus.</view>
   </view>
+  <view class="buttons">
   <button class="apply">Apply</button>
   <button class="save">Save</button>
+</view>
 </view>
 </view>

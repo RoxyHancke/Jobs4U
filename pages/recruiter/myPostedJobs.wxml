@@ -6,33 +6,43 @@
   </view>
 
   <view class="section-card">
-    <view>Job details</view>
+    <view class="jobDetails">Job details</view>
     <view>Location</view>
     <view class="job-description">Job description</view>
     <view class="salary">Salary</view>
     <view>Apply by dd/mm/yyy</view>
+    
+    <view class="buttons">
     <button class="full">Delete</button>
     <button class="ghost">Edit</button>
   </view>
 
-  <view class="section-card">
-    <view>Job details</view>
-    <view>Location</view>
-    <view class="job-description">Job description</view>
-    <view class="salary">Salary</view>
-    <view>Apply by dd/mm/yyy</view>
-    <button class="full">Delete</button>
-    <button class="ghost">Edit</button>
   </view>
 
   <view class="section-card">
-    <view>Job details</view>
+    <view class="jobDetails">Job details</view>
     <view>Location</view>
     <view class="job-description">Job description</view>
     <view class="salary">Salary</view>
     <view>Apply by dd/mm/yyy</view>
+
+    <view class="buttons">
     <button class="full">Delete</button>
     <button class="ghost">Edit</button>
+    </view>
+  </view>
+
+  <view class="section-card">
+    <view class="jobDetails">Job details</view>
+    <view>Location</view>
+    <view class="job-description">Job description</view>
+    <view class="salary">Salary</view>
+    <view>Apply by dd/mm/yyy</view>
+
+    <view class="buttons">
+    <button class="full">Delete</button>
+    <button class="ghost">Edit</button>
+    </view>
   </view>
 
   <view class="section-action">
