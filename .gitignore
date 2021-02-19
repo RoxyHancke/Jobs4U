@@ -1,0 +1,4 @@
+# This file specifies intentionally untracked files that Git should ignore.
+# You may find more templates from https://github.com/github/gitignore
+.DS_Store
+
