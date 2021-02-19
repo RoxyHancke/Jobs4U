@@ -61,12 +61,18 @@
     "miniprogram": {
       "list": [
         {
+
           "name": "pages/recruiter/myPostedJobs",
           "pathName": "pages/recruiter/myPostedJobs",
+
+          "name": "pages/userhome/userhome",
+          "pathName": "pages/userhome/userhome",
+
           "query": "",
           "scene": null
         },
         {
+
           "name": "pages/recruiter/myJobOffers",
           "pathName": "pages/recruiter/myJobOffers",
           "query": "",
@@ -75,19 +81,30 @@
         {
           "name": "pages/recruiter/recruiterProfile",
           "pathName": "pages/recruiter/recruiterProfile",
+          "name": "pages/recruiter/previewJobs",
+          "pathName": "pages/recruiter/previewJobs",
+
           "query": "",
           "scene": null
         },
         {
           "name": "pages/recruiter/previewJobs",
           "pathName": "pages/recruiter/previewJobs",
+
+          "name": "pages/recruiter/myPostedJobs",
+          "pathName": "pages/recruiter/myPostedJobs",
+
           "query": "",
           "scene": null
         },
         {
+
           "name": "pages/index/index",
           "pathName": "pages/index/index",
           "query": "",
+          "name": "pages/recruiter/myJobOffers",
+          "pathName": "pages/recruiter/myJobOffers",
+
           "scene": null
         }
       ]

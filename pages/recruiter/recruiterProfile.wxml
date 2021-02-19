@@ -13,7 +13,7 @@
 
   <view class="section-card">
     <view class="text-container">
-      <view class="text-section">My posted jobs</view>
+      <view bindtap="myJobs" class="text-section">My posted jobs</view>
     </view>
   </view>
 

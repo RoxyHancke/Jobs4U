@@ -9,6 +9,9 @@
     <view class="identity">I am a ... </view>
     <button class="seeker">Job Seeker</button>
     <button class="recruiter">Recruiter</button>
+    <button bindtap="seeNewJobs" class="seeker">Job Seeker</button>
+    <button bindtap="goToRecruiter" class="recruiter">Recruiter</button>
+
     <button class="workshops">Browsing Workshops</button>
     <button class="creator">Workshop Creator</button>
   </view>
